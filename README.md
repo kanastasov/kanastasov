@@ -16,8 +16,9 @@ Hi! My name is Kiril Anastasoff and I'm a software developer. I'm a collaborativ
 ### Programming languages and environments
 
 <span>
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java%20-%23323330.svg?&style=for-the-badge&logo=java&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/SpringBoot%20-%231572B6.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>
 </span>
 
 ### Frameworks
