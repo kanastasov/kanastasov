@@ -20,6 +20,26 @@ Hi! My name is Kiril Anastasoff and I'm a software developer. I'm a collaborativ
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 </span>
 
+### Frameworks
+
+<span>
+<img src="https://img.shields.io/badge/java%20-%230769AD.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven%20-%23593d88.svg?&style=for-the-badge&logo=Maven&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot%20-%23404d59.svg?&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/css%20-%2338B2AC.svg?&style=for-the-badge&logo=css&logoColor=white"/>
+<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</span>
+
+
+### Version Control
+
+ <span>
+  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
+</span>
 
 
 ## Statistics :chart_with_upwards_trend:
