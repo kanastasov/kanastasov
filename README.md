@@ -1,6 +1,7 @@
 ## About me 👋
 
-Hi! My name is Kiril Anastasoff and I'm a software developer. I'm a collaborative and innovative person always excited to start a new and interesting project alone or in a team.
+Hi! My name is Kiril Anastasoff and I Graduated from Teesside University with BSc Computer Science second class honors devision (2:1) in 2014. 
+Currently I am working as Java/React Developer. Always looking to network with bright, intelligent and engaging individuals who share common interests. Please feel free to reach out!
 
 <span>
   <a href="https://www.linkedin.com/in/kanastasov/">
