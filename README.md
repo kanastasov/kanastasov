@@ -25,6 +25,10 @@ Currently I am working as Java/React Developer. Always looking to network with b
 <img src="https://img.shields.io/badge/Javascript%20-%231572B6.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
 </span>
 
+### Most used languages
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanastasov)](https://github.com/kanastasov/github-readme-stats)
+
+
 ### Frameworks
 
 <span>
