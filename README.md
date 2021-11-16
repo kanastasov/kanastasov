@@ -25,10 +25,6 @@ Currently I am working as Java/React Developer. Always looking to network with b
 <img src="https://img.shields.io/badge/Javascript%20-%231572B6.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
 </span>
 
-### Most used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanastasov&layout=compact)](https://github.com/kanastasov/github-readme-stats)
-
-
 
 ### Frameworks
 
@@ -58,3 +54,6 @@ Currently I am working as Java/React Developer. Always looking to network with b
 ## Statistics :chart_with_upwards_trend:
 
 ![Kiril github stats](https://github-readme-stats.vercel.app/api?username=kanastasov)
+
+### Most used languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanastasov&layout=compact)](https://github.com/kanastasov/github-readme-stats)
