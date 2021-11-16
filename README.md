@@ -46,6 +46,7 @@ Currently I am working as Java/React Developer. Always looking to network with b
   <img src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
 </span>
 
+### Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/{kanastasov}/count.svg)
 
 
