@@ -26,7 +26,8 @@ Currently I am working as Java/React Developer. Always looking to network with b
 </span>
 
 ### Most used languages
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanastasov)](https://github.com/kanastasov/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanastasov&layout=compact)](https://github.com/kanastasov/github-readme-stats)
+
 
 
 ### Frameworks
