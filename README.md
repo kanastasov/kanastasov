@@ -52,13 +52,10 @@ Currently I am working as Java/React Developer. Always looking to network with b
 
 
 ## Statistics :chart_with_upwards_trend:
-
 ![Kiril github stats](https://github-readme-stats.vercel.app/api?username=kanastasov) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanastasov&layout=compact)](https://github.com/kanastasov/github-readme-stats)
 
+ <p align="center" dir="auto"> <i>"You have to wake up each morning with determination if you intend to go to bed with satisfaction."</i> </p>
 
-
-
-"You have to wake up each morning with determination if you intend to go to bed with satisfaction."
 
 
