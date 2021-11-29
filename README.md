@@ -58,10 +58,12 @@ Currently I am working as Java/React Developer. Always looking to network with b
   </p>
   <br/>
   
-<p align="center">
-   <a href="https://github.com/kanastasov/github-readme-activity-graph"><img alt="kanastasov Activity Graph" src="https://activity-graph.herokuapp.com/graph?         username=kanastasov&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+  <p align="center">
+<a href="https://github.com/kanastasov/github-readme-activity-graph"><img alt="kanastasov Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kanastasov&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </p>
- <br/>
+  <br/>
+ 
+ 
  
  <p align="center" dir="auto"> <i>"You have to wake up each morning with determination if you intend to go to bed with satisfaction."</i> </p>
 
