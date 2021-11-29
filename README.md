@@ -53,10 +53,11 @@ Currently I am working as Java/React Developer. Always looking to network with b
 
 ## Statistics :chart_with_upwards_trend:
 
-![Kiril github stats](https://github-readme-stats.vercel.app/api?username=kanastasov)
-
-### Most used languages
+![Kiril github stats](https://github-readme-stats.vercel.app/api?username=kanastasov) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanastasov&layout=compact)](https://github.com/kanastasov/github-readme-stats)
+
+
+
 
 "You have to wake up each morning with determination if you intend to go to bed with satisfaction."
 
