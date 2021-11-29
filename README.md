@@ -7,7 +7,21 @@
 Currently I am working as Java/React Developer. Always looking to network with bright, intelligent and engaging individuals who share common interests. Please feel free to reach out! </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kanastasov&label=Profile%20views&color=0e75b6&style=flat" alt="natan" /> </p>
 
+
 <br/>
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+   <h3> About me </h3>
+
+- 💬 Talk to me about **Java**.
+
+- 📫 Email: **kirilanastasoff@gmail.com**.
+
+- 🔭 I am currently learning **React**.
+
+- 🌳 Cotact me: **https://www.linkedin.com/in/kanastasov/**.
+
+- 👨‍🎓 Analysis and design of **E-commerce**.
 
 <h1 align="center"> Languages and Tools:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/macagua/macagua/blob/master/assets/img/icons/handshake.gif" height="32px" alt="Connect with me" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Connect with me: </h1>
 
