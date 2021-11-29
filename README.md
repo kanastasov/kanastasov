@@ -57,3 +57,7 @@ Currently I am working as Java/React Developer. Always looking to network with b
 
 ### Most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanastasov&layout=compact)](https://github.com/kanastasov/github-readme-stats)
+
+"You have to wake up each morning with determination if you intend to go to bed with satisfaction."
+
+
