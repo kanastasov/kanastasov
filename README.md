@@ -51,7 +51,8 @@ Currently I am working as Java/React Developer. Always looking to network with b
 ![Visitor Count](https://profile-counter.glitch.me/{kanastasov}/count.svg)
 
 
-## Statistics :chart_with_upwards_trend:
+<p align="center" dir="auto"> <i>## Statistics :chart_with_upwards_trend:</i> </p>
+
 ![Kiril github stats](https://github-readme-stats.vercel.app/api?username=kanastasov) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanastasov&layout=compact)](https://github.com/kanastasov/github-readme-stats)
 
