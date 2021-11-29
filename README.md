@@ -63,9 +63,11 @@ Currently I am working as Java/React Developer. Always looking to network with b
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanastasov&layout=compact)](https://github.com/kanastasov/github-readme-stats)
 
 
-  <p align="center" dir="auto">
-<a href="https://github.com/kanastasov/github-readme-activity-graph"><img alt="kanastasov Activity Graph" src="https://camo.githubusercontent.com/4fa138d33661a1c87965f7a3fcc70bc8bb0ce0dbd78e5b7f862e94a2c4860faa/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d6e6174616e76616c696d636172646f736f2662675f636f6c6f723d30443131313726636f6c6f723d354243444543266c696e653d35424344454326706f696e743d46464646464626686964655f626f726465723d74727565" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=kanastasov&amp;bg_color=0D1117&amp;color=5BCDEC&amp;line=5BCDEC&amp;point=FFFFFF&amp;hide_border=true" style="max-width: 100%;"></a>
+
+  <p align="center">
+<a href="https://github.com/kanastasov/github-readme-activity-graph"><img alt="natanvalimcardoso Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kanastasov&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </p>
+  <br/>
  <p align="center" dir="auto"> <i>"You have to wake up each morning with determination if you intend to go to bed with satisfaction."</i> </p>
 
 
