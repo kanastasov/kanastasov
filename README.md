@@ -23,7 +23,7 @@ Currently I am working as Java/React Developer. Always looking to network with b
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href = "https://www.linkedin.com/in/kanastasov/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.facebook.com/kiril.anastasoff.77/"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
-<a href = "https://www.codewars.com/users/kanastasov/"><img src="https://img.shields.io/badge/kanastasov%20-%231DA1F2.svg?&style=for-the-badge&logo=codewars&logoColor=red"/</a>
+<a href = "https://www.codewars.com/users/kanastasov/"><img src="https://img.icons8.com/fluent/48/000000/codewars.png"/></a>
 
 <br/>
 
