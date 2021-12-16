@@ -22,7 +22,6 @@ Currently I am working as Java/React Developer. Always looking to network with b
 - 🌳 Cotact me: **https://www.linkedin.com/in/kanastasov/**.
 
 - 👨‍🎓 Analysis and design of **E-commerce**.
-
 - <a href = "https://www.codewars.com/users/kanastasov/"><img src="https://www.codewars.com/users/kanastasov/badges/large"/></a>
 
 <br/>
