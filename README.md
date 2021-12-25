@@ -13,7 +13,7 @@ Currently I am working as Java/React Developer. Always looking to network with b
   
    <h3> About me </h3>
 
-- 💬 Talk to me about **Java**.
+- 💬 Talk to me about ***Java***.
 
 - 📫 Email: **kirilanastasoff@gmail.com**.
 
