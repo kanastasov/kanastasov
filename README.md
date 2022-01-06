@@ -1,4 +1,4 @@
-
+<a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/kanastasov/kanastasov/main/kanastasoff.gif" /></a>
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">About me</h1>
 
