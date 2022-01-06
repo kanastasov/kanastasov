@@ -1,5 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/kanastasov/kanastasov/master/kanastasov.gif" /></a>
-
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">About me</h1>
 
 
@@ -63,7 +61,7 @@ Currently I am working as Java/React Developer. Always looking to network with b
  
  
  
- <p align="center" dir="auto"> <i>"You have to wake up each morning with determination if you intend to go to bed with satisfaction."</i> </p>
-
+<p align="center" dir="auto"> <i>"You have to wake up each morning with determination if you intend to go to bed with satisfaction."</i> </p>
+<a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/kanastasov/kanastasov/master/kanastasov.gif" /></a>
 
 
