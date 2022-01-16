@@ -49,8 +49,12 @@ Currently I am working as Java/React Developer. Always looking to network with b
 
 <h1 align="center"> My Github Stats </h1>
   
-  <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=kanastasov&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanastasov&layout=compact&langs_count=7&theme=dark"/>
+  <p align="center"><img width="450em" src="https://github-readme-stats.vercel.app/api?username=kanastasov&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      <br/>
+  <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=kanastasov&include_all_commits=true&hide_border=true&theme=dark"/>
+  <br/>
+  <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanastasov&layout=compact&langs_count=7&theme=dark"/>
+  
   </p>
   <br/>
   
