@@ -15,7 +15,7 @@ Currently I am working as Java/React Developer. Always looking to network with b
 
 - 📫 Email: **kirilanastasoff@gmail.com**.
 
-- 🔭 I am currently learning **React**.
+- 🔭 I am currently mastering **React**.
 
 - 🌳 Cotact me: **https://www.linkedin.com/in/kanastasov/**.
 
