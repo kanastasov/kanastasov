@@ -1,15 +1,8 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">About me</h1>
-
-
-<h3 align="center">Hi! My name is Kiril Anastasoff and I Graduated from Teesside University with BSc Computer Science second class honors devision (2:1) in 2014. 
-Currently I am working as Java/React Developer. Always looking to network with bright, intelligent and engaging individuals who share common interests. Please feel free to reach out! </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kanastasov&label=Profile%20views&color=0e75b6&style=flat" alt="natan" /> </p>
-
-
 <br/>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-   <h3> About me </h3>
+  
+<h3><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> About me </h3>
 
 - 💬 Talk to me about ***Java***.
 
