@@ -8,7 +8,7 @@
 
 - 📫 Email: **kirilanastasoff@gmail.com**.
 
-- 🔭 I am currently mastering **React**.
+- 🔭 I am currently mastering **Angular**.
 
 - 🌳 Cotact me: **https://www.linkedin.com/in/kanastasov/**.
 
