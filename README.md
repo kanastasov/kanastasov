@@ -4,13 +4,13 @@
   
 <h3><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> About me </h3>
 
-- 💬 Talk to me about ***Java | Spring Boot | React***.
+- 💬 Talk to me about ***Java | Spring Boot | React | Angular***.
 
 - 📫 Email: **kirilanastasoff@gmail.com**.
 
 - 🔭 I am currently mastering **Angular**.
 
-- 🌳 Cotact me: **https://www.linkedin.com/in/kanastasov/**.
+- 🌳 Cotact me for hire at: **https://www.linkedin.com/in/kanastasov/**.
 
 - 👨‍🎓 Analysis and design of **E-commerce**.
 
