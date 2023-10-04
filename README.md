@@ -8,11 +8,11 @@
 
 - 📫 Email: **kirilanastasoff@gmail.com**.
 
-- 🔭 I am currently mastering **Angular**.
+- 🔭 I am currently mastering **Solidity**.
 
 - 🌳 Cotact me for hire at: **https://www.linkedin.com/in/kanastasov/**.
 
-- 👨‍🎓 Analysis and design of **E-commerce**.
+- 👨‍🎓 Analysis and design of **Smart Contract Audit**.
 
 <br/>
 <br/>
