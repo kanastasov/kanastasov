@@ -4,7 +4,7 @@
   
 <h3><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> About me </h3>
 
-- 💬 Talk to me about ***Java | Spring Boot | React | Angular***.
+- 💬 Talk to me about ***Smart Contract Auditing| Java | Spring Boot |***.
 
 - 📫 Email: **kirilanastasoff@gmail.com**.
 
