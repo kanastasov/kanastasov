@@ -4,15 +4,15 @@
   
 <h3><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> About me </h3>
 
-- 💬 Talk to me about ***Smart Contract Auditing| Java | Spring Boot |***.
+- 💬 Talk to me about ***Java | Spring Boot |Smart Contract Auditing|***.
 
 - 📫 Email: **kirilanastasoff@gmail.com**.
 
-- 🔭 I am currently mastering **Solidity**.
+- 🔭 I am currently mastering **React**.
 
 - 🌳 Cotact me for hire at: **https://www.linkedin.com/in/kanastasov/**.
 
-- 👨‍🎓 Analysis and design of **Smart Contract Audit**.
+- 👨‍🎓 Analysis and design of **Spring Boot and React**.
 
 <br/>
 <br/>
