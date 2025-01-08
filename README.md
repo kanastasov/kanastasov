@@ -12,7 +12,7 @@
 
 - 🌳 Cotact me for hire at: **https://www.linkedin.com/in/kanastasov/**.
 
-- 👨‍🎓 Analysis and design of **Spring Boot and React**.
+- 👨‍🎓 Analysis and design of **Spring Boot, React and Angular**.
 
 <br/>
 <br/>
